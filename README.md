@@ -14,6 +14,16 @@
 - 🌱 Currently doing a PhD in AI
 - 👯 I’m always available to collaborate
 
+
+#### Tech I am familiar with:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python,dotnet,js,ts,qt,html,tailwind,sqlite,mysql,vscode&perline=15" />
+  </a>
+</p>
+
+
 ----
 
 <a href="https://t.me/gvieralopez">
@@ -31,5 +41,3 @@
 <a href="https://scholar.google.com/citations?hl=en&user=vlOq6aYAAAAJ&view_op=list_works">
   <img align="left" alt="Gustavo's Google Scholar" width="20px" src="https://simpleicons.now.sh/googlescholar/495f7e" />
 </a>
-
-| &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; |&nbsp;&nbsp; Open Source &nbsp;<sub>&#9660; &#9660; &#9660;</sub>
