@@ -9,7 +9,7 @@
 ### Hi, I am Gustavo 🙋‍♂️
 
 - 🔭 Engineer experienced in Python
-- ❤️ In love with teaching and reseach
+- ❤️ In love with teaching and research
 - 🤖 Robotics enthusiast
 - 🌱 Currently doing a PhD in AI
 - 👯 I’m always available to collaborate
